@@ -1,3 +1,3 @@
-module github.com/umutbasal/crunch-go
+module github.com/aituglo/crunch-go
 
 go 1.18

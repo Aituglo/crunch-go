@@ -1,5 +1,7 @@
 # Crunch-go
 
+Rebuild without git-modules
+
 crunch-go is go runner for crunch wordlist generator. just builds and runs the binary with given args.
 
 ## Examples
